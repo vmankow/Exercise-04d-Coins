@@ -1,6 +1,11 @@
-# Exercise-04c-Enemies
+# Exercise-04c-Enemies, Project 4- May 2025
 
 ## Implementation
+- My own enemy sprite
+- implemented music
+- 3 levels
+- different themes for each level
+- Elaborate level
 
 ## References
 
@@ -11,7 +16,13 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
+Music provided by Pixabay
+https://pixabay.com/music/search/genre/video%20games/
+
 ## Future Development
+Elaborate start/end
+Personalized player sprite
+
 
 ## Created by
 Violet Mankowski
